@@ -27,6 +27,7 @@ brew "ruby"
 brew "rust"
 brew "pyenv"
 brew "httpie"
+brew "kubernetes-cli"
 
 cask "caffeine"
 cask "slack"
