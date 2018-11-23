@@ -5,6 +5,8 @@ brew "bash"
 brew "bash-completion"
 brew "coreutils"
 brew "curl", args: ["with-openssl"]
+brew "docker"
+berw "docker-compose"
 brew "findutils"
 brew "grep"
 brew "git"
