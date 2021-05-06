@@ -11,7 +11,7 @@
         "revision": "03b8641c62d9c9192641f8fec85cd305f0c36f18"
       },
       "homebrew/core": {
-        "revision": "796b0ac684abcd15ea506447e4734b429c31d70e"
+        "revision": "6fc13b20a8a36a539d55784a99c5977a42ac87d0"
       }
     },
     "brew": {
@@ -1706,6 +1706,12 @@
         "options": {
           "full_name": "zoom"
         }
+      },
+      "iterm2": {
+        "version": "3.4.6",
+        "options": {
+          "full_name": "iterm2"
+        }
       }
     }
   },
@@ -1714,7 +1720,7 @@
       "big_sur": {
         "HOMEBREW_VERSION": "3.1.5",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "796b0ac684abcd15ea506447e4734b429c31d70e",
+        "Homebrew/homebrew-core": "6fc13b20a8a36a539d55784a99c5977a42ac87d0",
         "CLT": "12.4.0.0.1.1610135815",
         "Xcode": "12.5",
         "macOS": "11.2.3"
